@@ -11,4 +11,6 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     readr
+Suggests:
+    roxygen2
 RoxygenNote: 7.1.1
